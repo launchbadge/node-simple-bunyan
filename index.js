@@ -13,6 +13,5 @@ module.exports = function(name, logLevel) {
     level: logLevel
   });
 
-  // Emplace the log in the global scope
-  global.log = log;
+  return log;
 };

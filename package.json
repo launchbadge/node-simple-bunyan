@@ -1,6 +1,6 @@
 {
   "name": "simple-bunyan",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Bunyan packaged to have simple, one-line configuration.",
   "main": "index.js",
   "repository": {
