@@ -1,0 +1,20 @@
+{
+  "name": "simple-bunyan",
+  "version": "0.1.2",
+  "description": "Bunyan packaged to have simple, one-line configuration.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/launchbadge/node-simple-bunyan.git"
+  },
+  "author": "Ryan Leckey <ryan@launchbadge.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/launchbadge/node-simple-bunyan/issues"
+  },
+  "homepage": "https://github.com/launchbadge/node-simple-bunyan#readme",
+  "peerDependencies": {
+    "bunyan": "^1.4.0",
+    "bunyan-prettystream": "^0.1.3"
+  }
+}
