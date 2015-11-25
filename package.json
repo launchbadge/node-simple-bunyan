@@ -1,6 +1,6 @@
 {
   "name": "simple-bunyan",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "Bunyan packaged to have simple, one-line configuration.",
   "main": "index.js",
   "repository": {
@@ -14,7 +14,9 @@
   },
   "homepage": "https://github.com/launchbadge/node-simple-bunyan#readme",
   "peerDependencies": {
-    "bunyan": "^1.4.0",
+    "bunyan": "^1.5.1"
+  },
+  "dependencies": {
     "bunyan-prettystream": "^0.1.3"
   }
 }
